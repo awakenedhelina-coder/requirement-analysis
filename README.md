@@ -52,7 +52,17 @@ Requirement Analysis is a critical phase in the software development lifecycle (
       Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.          
 # Use Case Diagrams             
   They are visual representation of interactions between users and the system.                     
-  Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).            
+  Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).  
+
+# Acceptance Criteria 
+  Objective: Establishing clear criteria for feature completion.         
+  What is Acceptance Criteria?      
+    Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.        
+  Benefits of Acceptance Criteria:                  
+    * Ensure all parties have a clear understanding of feature requirements.            
+    * Provide a basis for testing and validation.            
+    * Help in maintaining quality and meeting user expectations.            
+    Example of acceptance criteria for the checkout feature includes ability to handles thousands of checkouts at the same time, identifies and shows the chosen sites, integrated payment     methods.
 
     
 
