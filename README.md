@@ -53,7 +53,7 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 # Use Case Diagrams             
   They are visual representation of interactions between users and the system.                     
   Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).  
-  
+  ![Booking case diagram](alx-booking-uc.png)
 
 # Acceptance Criteria 
   Objective: Establishing clear criteria for feature completion.         
